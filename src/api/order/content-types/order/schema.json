@@ -15,7 +15,7 @@
       "type": "string",
       "required": false
     },
-    "products": {
+    "items": {
       "type": "json"
     }
   }
